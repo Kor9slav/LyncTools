@@ -106,4 +106,3 @@ Always ensure you have proper authorization before conducting any security testi
 
 ### Acknowledgments
 - Original concept and development by @nyxgeek
-- Enhanced spray functionality and safety features
